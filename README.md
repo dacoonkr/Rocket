@@ -46,4 +46,12 @@ $1!1(1)+@12!1(1)@13!1(1)<#31*@31!1(1)+@13#31#21~=]*^^>[^^!3(Result:)%^%@31@21
 
 최대값 구하기
 !3(Count:)%^$1@13!1(-1)$1~2>*^}<@12^@21{@31!1(1)-!1(0)~=]*^@13&24&[!3(Result:)%^^^%
+
+99병의 맥주
+!1(99)<%!3( bottles of beer on the wall, )%^%!3( bottles of beer.\n)%^!1(1)-
+!3(Take one down and pass it around, )%^%!3( bottles of beer on the wall.\n)%^!1(1)~=]*^>
+[!3(1 bottle of beer on the wall, 1 bottle of beer.
+Take it down and pass it around, no more bottles of beer on the wall.
+No more bottles of beer on the wall, no more bottles of beer.
+Go to the store and buy some more, 99 bottles of beer on the wall.)%
 ```
