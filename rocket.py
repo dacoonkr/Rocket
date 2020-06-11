@@ -187,4 +187,4 @@ def runRocket(code):
         x += 1
 
 if __name__ == "__main__":
-    runRocket("!3(Count:)%^$1@13!1(-1)$1~2>*^}<@12^@21{@31!1(1)-!1(0)~=]*^@13&24&[!3(Result:)%^^^%")
+    runRocket("!3(Hello, World!)%")
