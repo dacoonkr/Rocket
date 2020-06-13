@@ -28,10 +28,6 @@ $3 : 문자열 입력 후 1번 스택에 저장
 ~2n* : 1번 스택의 맨 위 1개의 값이 위에서 2번째의 값보다 작다면 n번째 글자로 이동 (n에 ], }, >도 가능)
 
 ], }, >: 각각 [, {, < 로 이동
-
-?함수명?코드;? : 함수를 선언한다. 함수를 종료할 땐 ;를 쓴다. 재귀함수 쌉가능
-"함수명" : 함수를 호출한다.
-
 ```
 
 **예제 코드**
@@ -58,7 +54,4 @@ $1!1(1)+@12!1(1)@13!1(1)<#31*@31!1(1)+@13#31#21~=]*^^>[^^!3(Result:)%^%@31@21
 Take it down and pass it around, no more bottles of beer on the wall.
 No more bottles of beer on the wall, no more bottles of beer.
 Go to the store and buy some more, 99 bottles of beer on the wall.)%
-
-안녕, n번째 세계?
-?hn?!3(안녕, )%^%!3(번째 세계! )%^!1(1)+"hn";?!1(1)"hn"
 ```
