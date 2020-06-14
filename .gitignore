@@ -1,4 +1,3 @@
-*.git/
-*.vscode/
-*.gitattributes
-*.gitignore
+.git/
+.vscode/
+.gitattributes
