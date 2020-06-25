@@ -1,0 +1,16 @@
+#������ �Լ�
+?str.length?~-_*;?
+?str.front?~-0*"ASCtoStr";?
+?str.back?~-_*!1(1)-~-$*"ASCtoStr"@12^@21;?
+?str.repeat?*;?
+?str.merge?+;?
+?ASCtoStr?@12!3()@21+;?
+?str.popFront?"str.reverse"!1(1)-"str.reverse";?
+
+#������ �Լ�
+?str.reverse?!3()@12`str1`~-_*!1(0)~=/str0*^!1(1)-~-$*@13@21@31+@12^!1(1)-`/str1``str0`^^^@21;?
+
+?str.toint?!1(0)@12 `str3`~-0*!1(48)-@21!1(10)*+@12"str.reverse"!1(1)-"str.reverse" ~-_*!1(0)~=/str2*^^`/str3``str2`^^^@21;?
+
+?str.slice?!1(0)@14 !3()@12`str5`~-0*!1(32)~=/str4*^@13@21@31+@12 ~-_*!1(0)~=/str6*^^ "str.popFront"`/str5``str4`^^@23"str.popFront"!3()@12@41!1(1)+@14`/str5`
+`str6`@23^^@41!1(1)+@14@31!1(1)-@13^ #42 `str8`@35@21!1(1)- !1(0)~=/str7*^@12`/str8` `str7`^^#42 `str9`@51@21!1(1)- !1(0)~=/str10*^@12`/str9` `str10`^^@41^;?

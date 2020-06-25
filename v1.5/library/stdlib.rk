@@ -1,0 +1,7 @@
+#간단한 함수
+?std.copy?#12@21;?
+?std.goFirst?&1&;?
+?std.stackSize?~+_*;?
+
+#조금 복잡한 함수
+?std.resetStack?`std2`~+_*!1(0)~=/std1*^^^`/std2` `std1`^^;?

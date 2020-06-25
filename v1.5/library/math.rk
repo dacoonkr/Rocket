@@ -1,0 +1,8 @@
+#간단한 함수
+?math.plus?+;? ?math.minus?-;?
+?math.multi?*;? ?math.divis?/;? ?math.mod?:;?
+?math.copy?#12@21;?
+?math.square?"math.copy"*;? ?math.cubic?"math.copy""math.copy"**;?
+
+#복잡한 함수
+?math.factorial?!1(1)+@12!1(1)@13!1(1)`math1`#31*@31!1(1)+@13#31#21~=/math2*^^`/math1` `math2`^^@31@21^^;?
